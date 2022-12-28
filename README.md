@@ -12,3 +12,5 @@ Collection of sorting algorithms written in Go
  - Insertion Sort
  - Merge Sort
  - Quick Sort
+ - 3 way Quick Sort
+ - Heap Sort
