@@ -2,6 +2,8 @@
 
 Collection of sorting algorithms written in Go
 
+<img src="https://raw.githubusercontent.com/ErickMesquita/go-sorting/main/docs/img/golang_official_logo_icon_169092-996239305.png#vitrinedev" style="margin: 0 auto 0 auto; display: block; width: 250px;">
+
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Name        | **Go Sorting**
